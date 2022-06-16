@@ -28,7 +28,7 @@ The most successful time to launch a kickstarter is in May, and become more like
 Kickstarters with a goal of $1000-$4999 have the best probability of success.
 
 - What are some limitations of this dataset?
-Though we can narrow down the data by country and year, we can’t further narrow it down to how the kickstarter was promoted to reach an audience that would pledge as well as spread word to their social circle to spread awareness.
+Though we can narrow down the data by country and year, we can’t further narrow it down to how the kickstarter was promoted to reach an audience that would pledge, as well as spread word to their social circle to spread awareness.
 
 - What are some other possible tables and/or graphs that we could create?
 A graph could be created to determine how long each kickstarter lasted from launch to deadline.  Part of the success and failure could be attributed to how long a kickstarter was given to reach their goals.  We could drill down further into how many backers successful kickstarters had and the average donation.
