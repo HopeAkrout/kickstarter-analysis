@@ -2,9 +2,11 @@
 
 ## Overview of Project
 
-### Purpose: To learn how to use various Excel functions to analyze large amounts of data in a compact, readable format that can be used to help a client understand the data and its outcomes in how it relates to their needs.
+### Purpose: 
+To learn how to use various Excel functions to analyze large amounts of data in a compact, readable format that can be used to help a client understand the data and its outcomes in how it relates to their needs.
 
-## Analysis and Challenges: By filtering out kickstarters that didn't relate to Louise's situation, such as technology, the resulting data wasn't skewed by the success and failure of kickstarters in outlier situations.  Only the data that would help the client in her own endeavors in the theater were needed in aiding her own success.  
+## Analysis and Challenges: 
+By filtering out kickstarters that didn't relate to Louise's situation, such as technology, the resulting data wasn't skewed by the success and failure of kickstarters in outlier situations.  Only the data that would help the client in her own endeavors in the theater were needed in aiding her own success.  
 
 ### Analysis of Outcomes Based on Launch Date
 It’s apparent that kickstarters relating to the theater are most successful in the late spring and early summer.
