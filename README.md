@@ -10,7 +10,7 @@ By filtering out kickstarters that didn't relate to Louise's situation, such as 
 
 ### Analysis of Outcomes Based on Launch Date
 It’s apparent that kickstarters relating to the theater are most successful in the late spring and early summer.
-
+![Theater Outcomes by Lauch Date.png](https://github.com/HopeAkrout/kickstarter-analysis/blob/main/resources/Theater%20Outcomes%20by%20Launch%20Date.png)]
 
 ### Analysis of Outcomes Based on Goals
 It appears that when the goals are set lower, there is a higher success rate, and there is a steady decline as the goals get higher.  What’s interesting to see is the outlier of the higher goals between $40,000.00 to $49,999.00 have a spike showing a much high success rate, though the total number of projects is too small a pool to make hard and fast determinations.  It could be attributed to the popularity of the play, success in garnering awareness, etc. and not something we have data on to verify.
